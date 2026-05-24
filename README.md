@@ -40,6 +40,13 @@ Construir el embudo de conversiones y calcular la tasa de caídas.
 * Ánalisis de información
 Analizar la retención y cohortes, realizar la somulación de mejoras y redacción de informe ejecutivo.
 
+#### Definición del Macro Journey (Embudo General)
+
+El negocio esta interesado particularmente en el siguiente embudo de conversión.
+
+<img width="1590" height="460" alt="image" src="https://github.com/user-attachments/assets/aaa58665-a3a7-4ffb-b011-7f2d5e1633ff" />
+
+
 ## Hallazgos y recomendaciones
 
 #### Hallazgos:
