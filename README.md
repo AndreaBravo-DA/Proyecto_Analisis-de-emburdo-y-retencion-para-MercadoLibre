@@ -1,2 +1,2 @@
-# Proyecto_Analisis-de-emburdo-y-retencion-para-MercadoLibre
+# Proyecto_Analisis-de-embudo-y-retencion-para-MercadoLibre
 Proyecto Bootcamp - TripleTen
