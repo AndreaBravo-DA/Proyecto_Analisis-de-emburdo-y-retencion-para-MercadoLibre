@@ -3,13 +3,13 @@ Proyecto Bootcamp - TripleTen
 
 ## Objetivo
 
-El presente poryecto tiene como objetivo identificar en qué etapa del proceso del embudo de conversión se pierden usuarios y cómo se puede mejorar para la retención a lo largo del tiempo. 
+Identificar en qué etapa del proceso del embudo de conversión se pierden usuarios y cómo se puede mejorar para la retención a lo largo del tiempo. 
 
 Identificar los principales puntos de fuga y evaluar la retención de usuarios por cohortes, para proponer mejoras accionables. 
 
-Dicho análisis de información se realizara en el perido de [01/01/2025] al [08/31/2025] para identificar la etapa de perdida de usuarios. 
+Dicho análisis de información se realizara en el perido de [01/01/2025] al [31/08/2025] para identificar la etapa de perdida de usuarios. 
 
-Para la retención de usuarios a lo largo del tiempo se realizara  entre el [01/01/2025] y el [06/01/2025], y se medira la tasa de retención en D7, D14, D21, D28.
+Para la retención de usuarios a lo largo del tiempo se realizara  entre el [01/01/2025] y el [01/06/2025], y se medira la tasa de retención en D7, D14, D21, D28.
 ## Herramientas 
 
 * Google Colab. 
@@ -20,13 +20,13 @@ Para la retención de usuarios a lo largo del tiempo se realizara  entre el [01/
 
 #### ¿En qué etapa se pierden más usuarios?
 
-1. Entre el [01/01/2025] y el [08/31/2025], ¿cuál es la tasa de conversión entre cada etapa clave del embudo?.
+1. Entre el [01/01/2025] y el [31/08/2025], ¿cuál es la tasa de conversión entre cada etapa clave del embudo?.
 2. ¿En qué paso se observa la mayor caída porcentual de usuarios?
 3. ¿Cómo varía esta pérdida por país (country)?
 
 #### ¿Qué tan bien retenemos a los usuarios a lo largo del tiempo?
 
-1. Para los usuarios que se registraron entre el [01/01/2025] y el [06/01/2025], ¿cuál es la tasa de retención en D7, D14, D21, D28?
+1. Para los usuarios que se registraron entre el [01/01/2025] y el [01/06/2025], ¿cuál es la tasa de retención en D7, D14, D21, D28?
 2. ¿Cómo se comporta la retención por país (country)?
 
 ## Metodología
