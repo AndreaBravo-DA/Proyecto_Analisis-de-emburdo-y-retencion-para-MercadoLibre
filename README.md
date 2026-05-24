@@ -3,8 +3,13 @@ Proyecto Bootcamp - TripleTen
 
 ## Objetivo
 
-Mapear el embudo de conversión, identificar los principales puntos de fuga y evaluar la retención de ususarios por cohortes.  
+El presente poryecto tiene como objetivo identificar en qué etapa del proceso del embudo de conversión se pierden usuarios y cómo se puede mejorar para la retención a lo largo del tiempo. 
 
+Identificar los principales puntos de fuga y evaluar la retención de usuarios por cohortes, para proponer mejoras accionables. 
+
+Dicho análisis de información se realizara en el perido de [01/01/2025] al [08/31/2025] para identificar la etapa de perdida de usuarios. 
+
+Para la retención de usuarios a lo largo del tiempo se realizara  entre el [01/01/2025] y el [06/01/2025], y se medira la tasa de retención en D7, D14, D21, D28.
 ## Herramientas 
 
 * Google Colab. 
