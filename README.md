@@ -31,11 +31,11 @@ Para la retención de usuarios a lo largo del tiempo se realizara  entre el [01/
 
 ## Metodología
 
-* Limpieza de datos:
-Visualización de los dataset y limpieza de datos.
+* Visualización de datos:
+Examinar de los dataset.
 
-* Procesamiento de datos:
-Construir el embudo de conversiones y calcular la tasa de caídas. 
+* Construcción de embudo
+Realizar el embudo de conversiones y calcular la tasa de caídas. 
 
 * Ánalisis de información
 Analizar la retención y cohortes, realizar la somulación de mejoras y redacción de informe ejecutivo.
