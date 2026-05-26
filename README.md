@@ -51,15 +51,22 @@ El negocio esta interesado particularmente en el siguiente embudo de conversión
 
 #### Hallazgos:
 
+La mayor perdida de usuarios (65.9%) ocurre entre seleccionar productos y agregarlo al carrito: 
+- Seleccionar producto: 76.90% 
+- Agregar al carrito: 11.00% 
 
+Los países con más pérdidas en esta etapa son: 
+1. Perú: 74.55%
+2. Bolivia: 70.97%
+3. Colombia: 66.67%
+4. México: 66.53% 
 
+Para los cohortes se tiene el siguiente porcentaje:
 
-
-
-D7 → Retención sólida →  > 80 % en todos los países
-D14  →   Caída significativa →  52.33 % 
-D21  →  Declive crítico → 22.89 %
-D28  →  Retención mínima → 2.34 % 
+* D7 → Retención sólida →  > 80 % en todos los países
+* D14  →   Caída significativa → 52.33 % 
+* D21  →  Declive crítico → 22.89 %
+* D28  →  Retención mínima → 2.34 % 
 
 
 
