@@ -55,7 +55,37 @@ El negocio esta interesado particularmente en el siguiente embudo de conversión
 
 
 
+
+D7 → Retención sólida →  > 80 % en todos los países
+D14  →   Caída significativa →  52.33 % 
+D21  →  Declive crítico → 22.89 %
+D28  →  Retención mínima → 2.34 % 
+
+
+
+
 #### Recomendaciones:
+
+* Auditoría técnica inmediata en países criticos para identificar barreras esecíficas en la etapa "agregar al carrito".		
+
+* Auditoria de integraciones de pago por país, moneda, regulación fiscal y forma de pago.		
+
+* Revisar la app: Validar si existen porblemas de oferta, precios o usabilidad en esa etapa (UX, tiempo de carga, claridad de precios y disponibilidad).		
+
+* Ofertas de marketing y notificaciones  (ofertas, promociones, cupones).
+  
+* Implementar notificaciones personalizadas entre los días D10 y D12 para prevenir caídas. 		
+
+* Realizar dinámicas en los primeros rangos (D7,D14 y D21).		
+
+* Impacto esperado de reducir > 50% la pérdida entre D7 → D14 y mejorar la retención hasta D21.
+    
+* Personalizar acciones por país según comportamiento para priorizar acciones en los segmentos con mayor perdida. 
+
+
+
+
+
 
 
 
